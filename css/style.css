@@ -437,7 +437,7 @@ div.info-layer p {
 
 .contact-us-container {
     gap: 10px;
-    justify-content: space-between;
+    justify-content: center;
 }
 
 .box-links {
@@ -451,7 +451,7 @@ div.info-layer p {
 }
 
 .contact-us-heading {
-    font-size: 3rem;
+    font-size: 30px;
 }
 
 li,
